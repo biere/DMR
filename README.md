@@ -1,4 +1,0 @@
-DMR
-===
-
-Radio Station
